@@ -1,0 +1,273 @@
+Gamve info:
+
+
+
+Just follow the "enter" commandline to walk through the game
+
+
+
+Commands(enter):
+
+
+
+WELCOME TO SAFE HAVEN!!!
+
+This is a choose your own path style game where each desicion 
+can lead to great success, women, and gold!!!!
+
+
+Well...Our producers say we don't have the funding for WOMEN or GOLD,
+but at least you will be successfull!!
+
+Anyways, Are you ready to embark on a wild journey?
+
+
+
+enter:  yes
+
+
+
+You wake up in a hospital bed early in the morning, head hurting,
+
+You cannot recall why or how you even ended up there.
+Should you look around?
+
+
+
+enter: no
+
+
+
+Enter 'Yes' to continue the game or 'Quit' to exit.
+
+
+
+enter: yes
+
+
+
+You get up from your bed and stand in the middle of the room
+
+You should proably get out of the room and figure out what the heck is going on.
+
+
+Where do you wanna start first? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: forward
+
+
+
+There is a door
+Do you want to exit
+
+
+
+enter: yes
+
+
+
+The door is locked and it seems like you will need a passcode to unlock the door!
+
+
+
+Again!!! Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: back
+
+
+
+You go back to bed...and sleep for 30 minutes
+
+You wake up again and get out from your bed
+
+
+
+Again!!! Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: left
+
+
+
+There is a calender on the wall
+It has a picture of a young women on the cover.
+
+you feel like she seems familar, but you can't recall when or where you have met her.
+
+Do you want to pick it up?
+
+enter: right
+
+Again! Do you want to pick it up?
+
+
+
+enter: yes
+
+
+
+You Picked up a CALENDER and on the back, it says '10/25/2015'.
+
+This date might be helpful later on
+
+Again!!! 
+Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: right
+
+
+
+There is a closet
+
+Do you want to check the closet?
+
+
+
+enter: yes    
+
+
+
+Within the closet there are clothes and a gun
+
+Do you want to pick up clothes and a gun with one bullet?
+
+
+
+enter: yes
+
+
+
+You change your clothes and pick up a gun with single bullet
+
+
+
+Again!!! Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: right
+
+
+
+
+There is nothing here anymore...since you pick up the gun and clothes.
+
+
+
+Again!!! Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: forward
+
+
+
+There is a door
+Do you want to exit
+
+enter: yes
+
+enter the passcode _ _ /_ _ /_ _ _ _ .
+
+
+enter: 10294839
+
+
+Access denied, re-enter the passcode now or Quit to go back
+
+
+
+enter: Quit
+
+
+
+Again!!! Where else would you like to look? LEFT / RIGHT / FORWARD / BACK
+
+
+
+enter: forward
+
+
+
+There is a door
+
+Do you want to exit
+
+
+
+enter: yes
+
+
+
+enter the passcode _ _ /_ _ /_ _ _ _ .
+
+
+
+enter: 10252015
+
+
+
+As you leave the room, you enter into a lobby of some sort.
+
+Everything seems to be in order except for the smell of roting flesh.
+
+Wait, ROTING FLESH!!!....
+All of a sudden, you notice a decaying corpse standing by door in front of you.
+
+It looks hungry and begins to run towards you.
+
+WHAT DO YOU DO: RUN or SHOOT the zombie!
+
+
+
+enter: shoot 
+////////////this choice is random so it may hit or miss depend on your luck/////////////////////////
+
+
+
+You quickly grab your shotgun, load it up, aim and SHOOT at the zombie
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+Head shot!!!
+
+As the headless zombie's body lays on the floor you see an AXE in his back pocket.
+
+This axe might useful. Type PICKUP to grab the axe
+
+
+
+enter: pickup
+
+
+
+Picked up Axe.
+
+
+
+Looks like this place is safe now. 
+Enter CONTINUE to move on.
+
+
+
+enter: continue
+
+
+
+To be continued.....................
